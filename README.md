@@ -1,4 +1,4 @@
-# 2D-Visualization-of-MNIST-Dataset By Sayam Sawai
+# 2D-Visualization-of-MNIST-Dataset
 Visualizing a 784 dimensional dataset(MNIST) in 2d using PCA
 
 ### Tech Stack
